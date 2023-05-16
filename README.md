@@ -8,7 +8,7 @@ Model to help identify segments from credit card customer data. To employ PCA an
 
 ## Learning Points
 
-- Row-wise PCA use cases as relates to clustering
+- Row-wise PCA use cases as relates to clustering.
 - Use of bivariate component analyses to determine factors most prominently differentiating segments.
 
 ## Project Breakdown
